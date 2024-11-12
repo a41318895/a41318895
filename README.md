@@ -1,10 +1,11 @@
 # 👋 Hi , I'm Aki Chou
 
 ## 🚀 About Me
-- 💻 Backend Developer with a passion for creating efficient solutions.
-- 🌱 Continuously learning and exploring new technologies.
-- 🔧 Familiar with Java, SpringBoot, MySQL, Docker, and Microservices.
-- 📚 Enthusiast of clean code principles and design patterns.
+**こんにちは！Aki です。一位日文系投身於Java後端開發的熱情學習者。**
+- 💻 Aspiring Java Backend Developer：以Java後端開發職位為目標，致力於創建高效能易除錯的解決方案。
+- 🌱 Continuous Learner：不斷學習探索新技術。從語言學習到程式設計，這段跨領域的學習經歷讓我擁有獨特視角和解決問題的能力
+- 🔧 Tech Enthusiast：熟悉Java、SpringBoot、MySQL、Docker和微服務架構，且熱衷於 clean code principles 和 design patterns
+- 📚 Language Lover：日文系背景讓我對語言本身和文化交流有深刻的理解，這能幫助我在開發中更好地理解和溝通需求
 
 ## 🛠️ Tech Stack
 
