@@ -75,6 +75,8 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=DesignPattern)](https://github.com/a41318895/DesignPattern)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=DistributedLock)](https://github.com/a41318895/DistributedLock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=Elasticsearch)](https://github.com/a41318895/Elasticsearch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=Concurrency)](https://github.com/a41318895/Concurrency)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=SaToken)](https://github.com/a41318895/SaToken)
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akichoudev@gmail.com)
