@@ -75,7 +75,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=DesignPattern)](https://github.com/a41318895/DesignPattern)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=DistributedLock)](https://github.com/a41318895/DistributedLock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=Elasticsearch)](https://github.com/a41318895/Elasticsearch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=Concurrency)](https://github.com/a41318895/Concurrency)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=GraphQL)](https://github.com/a41318895/GraphQL)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=SaToken)](https://github.com/a41318895/SaToken)
 
 ## 📫 How to reach me
