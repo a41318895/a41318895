@@ -37,6 +37,7 @@
 ### DevOps & Tools
 ![Git](https://img.shields.io/badge/-Git-A41E11?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Github Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=github-actions&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-124F8E?style=flat-square&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/-Docker%20Compose-124F8E?style=flat-square&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-333333?style=flat-square&logo=linux&logoColor=white)
@@ -71,12 +72,8 @@
 ## 🌟 Featured Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=AkiBlogProject)](https://github.com/a41318895/AkiBlogProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=SimpleMicroservicesProject)](https://github.com/a41318895/SimpleMicroservicesProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=DSA)](https://github.com/a41318895/DSA)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=DesignPattern)](https://github.com/a41318895/DesignPattern)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=DistributedLock)](https://github.com/a41318895/DistributedLock)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=Elasticsearch)](https://github.com/a41318895/Elasticsearch)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=GraphQL)](https://github.com/a41318895/GraphQL)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=SaToken)](https://github.com/a41318895/SaToken)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=DesignPattern)](https://github.com/a41318895/DesignPattern)
 
 ## 📫 How to reach me
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:akichoudev@gmail.com)
