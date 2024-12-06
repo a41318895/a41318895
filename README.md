@@ -60,9 +60,6 @@
 ![MinIO](https://img.shields.io/badge/-MinIO-A41E11?style=flat-square&logo=minio&logoColor=white)
 ![Jakarta Mail](https://img.shields.io/badge/-Jakarta%20Mail-007396?style=flat-square&logo=java&logoColor=white)
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=a41318895&show_icons=true&theme=radical)
-
 ## 🔥 Streak Stats
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=a41318895)](https://git.io/streak-stats)
 
