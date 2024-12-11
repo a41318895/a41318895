@@ -70,6 +70,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=AkiBlogProject)](https://github.com/a41318895/AkiBlogProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=SimpleMicroservicesProject)](https://github.com/a41318895/SimpleMicroservicesProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=Elasticsearch)](https://github.com/a41318895/Elasticsearch)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=BestPractice)](https://github.com/a41318895/BestPractice)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=a41318895&repo=DesignPattern)](https://github.com/a41318895/DesignPattern)
 
 ## 📫 How to reach me
