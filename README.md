@@ -5,7 +5,7 @@
 - 💻 Aspiring Java Backend Developer：以Java後端開發職位為目標，致力於創建高效能易除錯的解決方案。
 - 🌱 Continuous Learner：不斷學習探索新技術。從語言學習到程式設計，這段跨領域的學習經歷讓我擁有獨特視角和解決問題的能力
 - 🔧 Tech Enthusiast：熟悉Java、SpringBoot、MySQL、Docker和微服務架構，且熱衷於 clean code principles 和 design patterns
-- 📚 Language Lover：日文系背景讓我對語言本身和文化交流有深刻的理解，這能幫助我在開發中更好地理解和溝通需求
+- 📚 Language Lover：日文系背景讓我對語言本身和語言交流有深刻的理解，這能幫助我在開發中更好地理解和溝通需求
 
 ## 🛠️ Tech Stack
 
@@ -23,7 +23,6 @@
 ![TCP/IP](https://img.shields.io/badge/-TCP%2FIP-000000?style=flat-square&logo=cisco&logoColor=white)
 ![HTTP](https://img.shields.io/badge/-HTTP-CC3534?style=flat-square&logo=http&logoColor=white)
 ![HTTPS](https://img.shields.io/badge/-HTTPS-004A77?style=flat-square&logo=http&logoColor=white)
-![WebSocket](https://img.shields.io/badge/-WebSocket-2A3846?style=flat-square&logo=socket.io&logoColor=white)
 ![SSL/TLS](https://img.shields.io/badge/-SSL%2FTLS-004A77?style=flat-square&logo=security&logoColor=white)
 ![DNS](https://img.shields.io/badge/-DNS-000000?style=flat-square&logo=cloudflare&logoColor=white)
 
